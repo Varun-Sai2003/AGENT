@@ -1,0 +1,48 @@
+Web Scraper Build
+
+a. Please read instructions.md and build the project file structure
+
+b. Build a Telegram chatbot that:
+    i. Receives a message in Telegram
+    ii. Uses Gemini to understand the message
+    iii. Determines which workflow to run
+    iv. Executes the workflow
+    v. Sends a response back to Telegram
+    vi. The system must include exactly 3 workflows:
+        1. scrape_google_maps
+            a. Input: service, city, count
+            b. Output: exactly count leads
+            c. Each lead must include: name, service, address, website (if available), rating (if available), date_created (date scraped), status (default: lead)
+
+        2. airtable_save_leads
+            a. Takes leads from scrape_google_maps
+            b. Uploads them to Airtable using MCP
+            c. Columns must match the lead fields exactly
+
+        3. airtable_search_leads
+            a. Input filters: city, service, minimum rating, status, count
+            b. Sort results by rating (highest first)
+            c. Return exactly count results (or fewer if not enough exist)
+            d. Deployment requirements:
+    
+    vii. Must run in the cloud on Modal
+        1. Secrets must be stored using Modal secrets
+        2. No hardcoded API keys
+    
+    viii. Definition of done: When I send: "Find 5 plumbers in Miami"
+        1. The system:
+            a. saves 5 leads in Airtable
+            b. replies in Telegram confirming completion
+            c. previews the top results
+
+c. Please create the instructions and execution files to webscrape Google Maps It must accept service, city, and count and output exactly amount of leads with fields: name, service, address, website, rating, date_created, status (default lead). Please test it with grabbing 2 coffee shops in Toronto and saving it as a .csv file.
+d. Please create the instructions and execution files to export results from the Google Maps webscrape to Airtable via MCP. Match the columns exactly. Please give me step-by-step instructions on how I can create an Airtable token and what to do with it.
+e. Please create the instructions and execution files that pulls results from Airtable via MCP based on filters I provide in the query: city, service, minimum rating, and status. Sort results by rating (highest first). The number of results should match the number requested in the query. For example, 2 plumbers with a rating of 4 or higher
+f. Connect Telegram so I can send a message and receive a reply. The brain should be Gemini, and reply to me as a chatbot with a natural, professional personality. Route messages to the correct existing workflow based on the intent described in project_specs.md. Also, give me instructions on how to get the Telegram API key and the Gemini API key and how to store my keys safely.
+g. Please read modal_instructions.md and deploy this app to Modal.com and store all of my secret keys and passwords safely inside Modal.com as secret keys or environmental variables. Set the Telegram webhook to the Modal URL. Please confirm it works by sending a request to grab results from Airtable.
+h. (Optional add-on) Please edit our existing webscraper agentic workflow to not only scrape Google Maps, but pull out emails from each company website as well. So on the Google Maps listing, there will be a website - you'll have to scrape the website and pull out the email. Skip all sites that don’t a website or email address, and provide me with the exact amount of businesses I'm looking for. So for example, if I want 10 companies, you may have to find 14 listings just to grab 10 that have email addresses. Set this workflow up so I can paste in any service, city and number of leads. 2 coffee shops in Toronto is an example query.
+
+
+--------------------------------------------------------------------------------
+
+

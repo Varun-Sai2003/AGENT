@@ -1,0 +1,178 @@
+STONE OUTPOST — CLEAR GUIDE (Level 45)
+=======================================
+
+Type:    Fixed Bandit Camp (always visible on world map)
+Zone:    Oak Forest / T2 region
+Reset:   Every 7 days after first attack
+Loot:    Common + Uncommon Blueprint Tubes, T2-T3 resources
+Purpose: Best F2P source of Common/Uncommon tubes at Lv.45
+
+
+=======================================
+ REQUIREMENTS
+=======================================
+
+  Item              | Minimum      | Recommended at Lv.45
+  ------------------|--------------|---------------------------
+  Player Level      | 30+          | You're 45 -- no issue
+  Primary Weapon    | T2 firearm   | Pepperbox or Bronze Rifle
+  Backup Weapon     | Any T2       | Spare Pistol or Spear
+  Armor             | T2 full set  | Full T2 Leather Set
+  Healing           | Some food    | Ointments + food + bandages
+  Durability        | 70%+ minimum | 100% repaired before going
+
+  NOTE: At Lv.45 you are overqualified for this camp.
+  The main risk is not dying -- it is running out of healing
+  or weapon durability mid-fight. Prepare accordingly.
+
+
+=======================================
+ INVENTORY CHECKLIST
+=======================================
+
+  WEAPONS (2 slots):
+  [ ] Pepperbox or Bronze Rifle     -- 100% durability, repaired
+  [ ] Backup T2 Pistol or Spear     -- emergency if primary breaks
+
+  ARMOR (worn, 5 slots):
+  [ ] Leather Hat                   -- 100% durability
+  [ ] Leather Jacket                -- 100% durability
+  [ ] Jeans (Pants)                 -- 100% durability
+  [ ] Leather Boots                 -- 100% durability
+  [ ] Leather Gloves                -- 100% durability
+
+  HEALING (5-6 slots):
+  [ ] 3x Ointment                   -- BOSS ONLY, don't waste early
+  [ ] 5x Grilled Meat / Cactus Fruit-- use on regular bandits
+  [ ] 2x Bandage                    -- emergency top-up between fights
+
+  TOOLS (1-2 slots):
+  [ ] 2x Pickaxe                    -- grab ore on return trip
+  [ ] 1x Axe                        -- optional, timber nodes nearby
+
+  INVENTORY SPACE:
+  [ ] Leave 15-20 slots EMPTY       -- loot is heavy (ingots, tubes, tools)
+
+  LEAVE AT HOME:
+  > Raw ore, timber, excess mats    -- wastes loot slots
+  > More than 2 weapons             -- unnecessary
+  > Anything below 70% durability   -- will break mid-fight
+
+
+=======================================
+ PRE-RAID CHECKLIST (Do Before Leaving)
+=======================================
+
+  [ ] Repair ALL weapons to 100% at Repair Bench
+  [ ] Repair ALL armor pieces to 100%
+  [ ] Craft/stock ointments and food -- don't go short on healing
+  [ ] Clear your inventory of everything not on the list
+  [ ] Park Wagon near camp entrance -- use for overflow loot hauls
+  [ ] Check Anger Meter -- do NOT leave if meter is near full
+      (bandit raid may hit your ranch while you're away)
+  [ ] Check ranch production queues -- start Foundry before leaving
+
+
+=======================================
+ HOW TO FIND THE CAMP
+=======================================
+
+  1. Open World Map (globe icon)
+  2. Zoom out and scan for a skull/camp icon in the Oak Forest area
+  3. Stone Outpost appears as a PERMANENT marker -- always visible
+  4. Tap the icon to see recommended level and gear tier
+  5. Travel there directly -- no Stash Map needed
+
+
+=======================================
+ COMBAT STRATEGY
+=======================================
+
+  PHASE 1 -- Clear Regular Bandits (Do NOT rush boss)
+  ----------------------------------------------------
+  > Use Rifle: shoot from maximum range, pull 1-2 enemies at a time
+  > Use cover: hide behind walls/rocks between shots to reload/heal
+  > Kill ranged bandits (guns) BEFORE melee bandits
+  > Use food items here -- save ointments for the boss
+  > Watchdogs: kill first if they detect you, they alert the camp
+
+  PHASE 2 -- Boss Fight (Blasting Gary / Hal)
+  --------------------------------------------
+  BOSS MECHANICS:
+    > Throws DYNAMITE -- AoE damage, never stand still
+    > Can HEAL himself -- stops healing when HP drops below 50%
+    > Hits harder than regular bandits -- don't tank his shots
+
+  STRATEGY:
+    > ATTACK ONLY after all regular bandits are dead
+    > Shoot > immediately move sideways > shoot again (hit-and-run)
+    > When he throws dynamite: sprint away, wait for explosion, return
+    > At ~50% HP: he stops healing -- push maximum damage here
+    > Use Ointments NOW if health drops below half
+    > Pistol headshots = fastest kill on boss
+
+  PHASE 3 -- Loot
+  ---------------
+  > Boss killed > Leader's Chest spawns > open THIS FIRST (best loot)
+  > Search all containers around the camp after
+  > Can't carry everything? Leave and come back -- 7-day window open
+  > Use Wagon overflow: dump heavy items, return for second haul
+
+
+=======================================
+ WHAT YOU'LL LOOT
+=======================================
+
+  Loot Type               | Notes
+  ------------------------|----------------------------------------------
+  Common Blueprint Tubes  | Main goal -- weapon and armor blueprints
+  Uncommon Blueprint Tubes| Better variant -- weapon and armor blueprints
+  Bronze / Iron Ingots    | Free crafting materials
+  T2-T3 Tools/Weapons     | Break down at ranch or sell at Silverton
+  Healing items           | Ointments, bandages -- restock your supply
+  Silver Coins            | Random drop from bandits and chests
+  Bandit's Stash Map      | Rare drop from boss -- reveals hidden hideout
+
+
+=======================================
+ TOP MISTAKES TO AVOID
+=======================================
+
+  Mistake                        | Consequence                 | Fix
+  -------------------------------|-----------------------------|--------------------------
+  Attack boss with bandits alive | Entire camp aggros at once  | Clear all grunts first
+  Stand still during dynamite    | Massive damage, armor breaks| Keep moving constantly
+  Go in below 70% durability     | Weapon breaks mid-fight     | Repair bench before going
+  Full inventory going in        | Can't pick up loot          | Leave 15-20 slots empty
+  Use ointments on regular mobs  | None left for boss = death  | Food only on grunts
+  Ignore Anger Meter before trip | Ranch raided while away     | Check meter, stop at 75%
+  Leave without second haul      | Missed free resources       | Use Wagon, come back
+
+
+=======================================
+ CAMP RESET SCHEDULE
+=======================================
+
+  > Camp resets EXACTLY 7 days after your first attack
+  > You can re-enter multiple times within those 7 days
+  > Use Day 1 for main clear + boss kill
+  > Use Day 2-3 for leftover loot hauls (if inventory was full)
+  > Day 7: reset -- bandits respawn, chests refresh -- repeat
+
+  RECOMMENDED WEEKLY RHYTHM:
+    Day 1 -- Full clear run (boss + all loot)
+    Day 2 -- Second loot haul if needed (Wagon run)
+    Day 7 -- Reset day: plan next clear for this day going forward
+
+
+=======================================
+ TL;DR -- STONE OUTPOST IN 4 STEPS
+=======================================
+
+  1. PREP    > Full T2 gear repaired + ointments + food + empty inventory
+  2. CLEAR   > Pull bandits one by one from range, kill all before boss
+  3. BOSS    > Hit-and-run, dodge dynamite, spike damage at <50% HP
+  4. LOOT    > Boss chest first, then camp containers, Wagon for overflow
+
+
+Source: westland-survival.md skill file + web research | Lv.45 | v11.0+

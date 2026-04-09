@@ -1,0 +1,266 @@
+T2 FIREARMS MASS PRODUCTION — CHEAT SHEET (Level 45)
+=====================================================
+
+Zone: Oak Forest (T2-3). At Lv.45 you have full access to Copper Mine, Tin Mine,
+and Oak Forest — the exact resources needed for T2 bronze firearms.
+
+
+=====================================================
+ PRE-FLIGHT CHECKLIST
+=====================================================
+
+  Requirement                    | How to Check
+  -------------------------------|----------------------------------------------
+  Gun Workbench Lv.2             | Tap bench > Upgrade > T2 recipes unlocked
+  Foundry Lv.2                   | Required for Bronze Ingots — upgrade FIRST
+  Pepperbox Blueprint            | Gun Workbench menu > Pistols section
+  Bronze Weapon Parts blueprint  | Default unlock at Gun Workbench Lv.2
+  Bronze Plate blueprint         | Foundry menu — unlocked at Foundry Lv.2
+  Wagon ready + 3-4 pickaxes     | For bulk ore hauls
+  Storage chests cleared         | Free up space before each run
+
+  WARNING: Floor tiles under Gun Workbench AND Foundry must be upgraded
+  to matching tier or the Upgrade button stays greyed out.
+
+
+=====================================================
+ FULL MATERIAL CHAIN (Pepperbox — Best T2 Gun at Lv.45)
+=====================================================
+
+  Pepperbox (T2 Pistol)
+  ├── 2x Bronze Weapon Parts  --+
+  ├── 1x Bronze Plate          | all made from Bronze Ingots
+  └── 1x Bronze Rivet          --+
+
+  1x Bronze Ingot (Foundry Lv.2):
+      = 4x Copper Ore
+      + 4x Tin Ore
+      + 2x Brown Coal
+
+  Raw Ore Needed Per Gun:
+
+  Material      | Per 1 Gun | Per 10 Guns | Farm Location
+  --------------|-----------|-------------|-------------------------
+  Copper Ore    | ~16-20    | ~180        | Copper Mine (T1 zone)
+  Tin Ore       | ~16-20    | ~180        | Tin Mine (T2 zone)
+  Brown Coal    | ~8-10     | ~90         | Any mine (spawns alongside ore)
+
+  TIP: Stockpile ALL raw ore first, then smelt in one overnight batch.
+  Queuing in bulk is faster than crafting 1-2 guns per day.
+
+
+=====================================================
+ FARMING ROUTES (Energy-Optimized)
+=====================================================
+
+  Route A — Pure Ore Run (Fastest bronze stockpile)
+  ---------------------------------------------------
+  Ranch
+    > Copper Mine  (fill inventory: Copper Ore + Brown Coal)
+    > Tin Mine     (fill remaining space: Tin Ore)
+    > Ranch
+    > Dump all into Foundry queue > sleep > smelt overnight
+
+  Route B — Stacked XP Run (Farm + Progress)
+  -------------------------------------------
+  Ranch
+    > Oak Forest   (bandits for XP + quests + Oak timber)
+    > Tin Mine     (grab Tin on return trip)
+    > Silverton    (trade surplus furs/hides for Silver Coins)
+    > Ranch
+
+  Route C — Trade Shortcut (Low-energy or busy day)
+  --------------------------------------------------
+  Silverton > Metals Merchant: 5x Copper > 1x Bronze Ingot equivalent
+            > Native Tribe:    Wolf Teeth / Bear Claws > Tin Ore
+  Ranch     > smelt whatever you traded for > craft guns
+             (skip mining entirely on busy days)
+
+  KEY TIP: Inside mines, always use pickaxes you FIND on the ground first.
+  Saves your crafted pickaxes' durability for later.
+
+
+=====================================================
+ DAILY PRODUCTION LOOP
+=====================================================
+
+  -- LOGIN --------------------------------------------------------
+  1. Start Foundry: queue ALL Copper + Tin + Coal > Bronze Ingots
+
+  -- WHILE FOUNDRY RUNS -------------------------------------------
+  2. Use full energy on 1 ore run (Route A preferred)
+  3. Return > smelt new ore > add to queue
+
+  -- BEFORE SLEEP -------------------------------------------------
+  4. Craft: Bronze Weapon Parts, Bronze Plates, Bronze Rivets
+  5. Queue Gun Workbench with as many Pepperboxes as mats allow
+  6. Log out > everything crafts passively overnight
+
+  -- NEXT LOGIN ---------------------------------------------------
+  7. Collect finished guns > store or sell > repeat from step 1
+
+  Overnight Queue Priority Order:
+    1st > Foundry        (slowest, queue longest batches)
+    2nd > Components     (Weapon Parts, Plates, Rivets)
+    3rd > Gun Workbench  (fastest, queue last before sleep)
+
+
+=====================================================
+ BLUEPRINT SOURCES & RARITY SYSTEM
+=====================================================
+
+  IMPORTANT: All T2 gun rarities use the SAME crafting materials
+  (Bronze Ingots + components). Rarity is in the BLUEPRINT only —
+  better blueprint = higher damage, durability, and bonus stats.
+
+  ── RARITY GRADES & WHERE TO FIND THEM ────────────────────────────
+
+  Grade      | Tube Type        | Where to Get the Tube
+  -----------|------------------|----------------------------------------------
+  Common     | Common Tube      | Gun Workbench Lv.2 default / Ranch Guide
+  Uncommon   | Uncommon Tube    | Gustav (Silverton) — trade Common > Uncommon
+             |                  | Oak Forest chest loot / bandit drops
+  Rare       | Rare Tube        | Bandit Camps (Oak Forest) — clear camps fully
+             |                  | Smuggler Adam McCoy (Silverton) — daily stock
+             |                  | Bounty hunt completions / specific side quests
+  Epic       | Industrial Tube  | Smuggler Adam McCoy (primary source)
+             |                  | Build Dovecote at ranch to unlock McCoy access
+             |                  | Season Pass milestones (late tiers)
+             |                  | Alliance Merchant's Shop (if built)
+
+  ── SPECIFIC T2 FIREARM BLUEPRINT SOURCES ──────────────────────────
+
+  Weapon                | Rarity   | Best Source
+  ----------------------|----------|------------------------------------------
+  Pepperbox (Pistol)    | Common   | Gun Workbench Lv.2 default
+  Pepperbox             | Uncommon | Gustav: Common > Uncommon tube trade
+  Pepperbox             | Rare     | Bandit Camp loot (Oak Forest)
+  Pepperbox             | Epic     | Adam McCoy / Season Pass late milestone
+  Bronze Rifle          | Common   | Frontier Tube (Oak Forest chests)
+  Bronze Rifle          | Rare+    | Adam McCoy / Bandit Camp Rare Tubes
+  Bronze Shotgun        | Common   | Adam McCoy daily stock (check rotation)
+  Bronze Shotgun        | Rare+    | Adam McCoy (Rare Tube rotation)
+  Bronze Spear          | Common   | Frontier Tube (Oak Forest / Ranch Guide)
+
+  ── DROP LOCATIONS — DETAILED ──────────────────────────────────────
+
+  Location               | What It Drops          | How Often
+  -----------------------|------------------------|------------------------
+  Oak Forest Bandit Camps| Common + Uncommon Tubes| Every clear (respawns)
+  Oak Forest Chests      | Frontier Tubes (random)| Random loot table
+  Silverton (Gustav)     | Upgrades Common > Unc. | Daily reset — 1 trade
+  Adam McCoy (Silverton) | Rare + Industrial Tubes| Daily rotation — check
+  Ranch Guide objectives | Various Tubes          | Complete specific tasks
+  Shootout Spots (event) | Rare Tube possible     | Timed event — map icon
+  Bounty Hunt rewards    | Rare Tube              | After bounty completion
+  Season Pass milestones | Epic Tubes             | Free tier (late rewards)
+  In-game Shop           | All tube types         | Free daily offer exists
+
+  ── HOW TO CHECK A SPECIFIC GUN'S DROP SOURCE IN-GAME ──────────────
+
+  1. Open Gun Workbench > find the gun you want
+  2. If blueprint not learned > tap "Where to find?" button
+  3. Game shows exact tube type needed + where to get it
+  4. Use this for any weapon — always current and accurate
+
+  ── STAT DIFFERENCES BY RARITY (T2 approximate) ────────────────────
+
+  Rarity    | Damage   | Durability | Bonus stat
+  ----------|----------|------------|------------------------------------------
+  Common    | Base     | Base       | None
+  Uncommon  | +10-15%  | +10%       | None or minor
+  Rare      | +20-30%  | +20%       | 1 active bonus (crit, enemy type damage)
+  Epic      | +40-50%  | +30%       | 1-2 strong bonuses + best-in-tier stats
+
+  ── BONUS STAT TYPES ON RARE/EPIC T2 GUNS ──────────────────────────
+
+  Bonus Type              | Effect                        | Best For
+  ------------------------|-------------------------------|-------------------
+  +Crit Chance            | % chance to deal double hit   | Bandit farming XP
+  +Damage vs. Bandits     | More damage to humanoid enemies| Oak Forest runs
+  +Damage vs. Animals     | More damage to wildlife        | Hide farming
+  +Attack Speed           | Faster fire rate               | All combat
+  +Headshot Bonus         | Extra damage on headshots      | Pistols/Rifles
+
+  ── BLUEPRINT LEVELING ──────────────────────────────────────────────
+
+  - Find a DUPLICATE blueprint tube (same gun, same rarity)
+  - Go to Gun Workbench > select gun > tap Upgrade Blueprint
+  - Pay Silver cost > stats permanently improve on all future crafts
+  - T2 blueprint upgrades cost SILVER ONLY (no rare mats needed)
+  - Max blueprint level = maximum stats for that rarity grade
+
+  ── RARITY PRIORITY UNLOCK ORDER ────────────────────────────────────
+
+  1. Common Pepperbox (default) — craft immediately, use as base
+  2. Uncommon Pepperbox via Gustav — daily trade, fast free upgrade
+  3. Rare Pepperbox from Bandit Camps — farm Oak Forest camps daily
+  4. Rare Bronze Rifle from Adam McCoy — check his daily rotation
+  5. Epic variants — only via Season Pass or McCoy; don't grind for these
+
+  NOTE: Never skip Bandit Camp clears in Oak Forest — they are the
+  single best free source of Rare Tube drops at this level range.
+
+
+=====================================================
+ SKILL TREE — Craftsman Nodes to Unlock at Lv.45
+=====================================================
+
+  Node             | Direct Benefit
+  -----------------|---------------------------------------------------
+  Crafting Speed   | Gun Workbench + Foundry queues complete faster
+  Gathering Bonus  | More ore per node hit = fewer runs needed
+  Trade Perk       | Better Silverton Metals Merchant exchange rates
+
+  Stack Track tasks that involve crafting weapons OR mining ore —
+  you earn Books AND build gun stock at the same time. Pure efficiency.
+
+
+=====================================================
+ SELL vs. KEEP DECISIONS
+=====================================================
+
+  Situation                    | Action
+  -----------------------------|----------------------------------------------
+  More guns than you need      | Trade at Silverton > Silver Coins
+  Guns at <30% durability      | Use Repair Bench — cheaper than re-crafting
+  Season Pass active           | Check "craft X weapons" task > Golden Bullets
+  In an Alliance               | Donate surplus > Alliance Points
+  No blueprint yet             | Farm Oak Forest bandit camps — T2 tube drops
+
+
+=====================================================
+ TOP GOTCHAS
+=====================================================
+
+  Mistake                      | Consequence                  | Fix
+  -----------------------------|------------------------------|-----------------------------
+  Foundry below Lv.2           | Can't smelt Bronze — stuck   | Upgrade Foundry BEFORE ore
+  Not enough Brown Coal        | Smelting stalls mid-batch    | Carry 2x more coal always
+  Anger Meter maxes at mine    | Surprise raid when offline   | Stop at ~75% Anger, go home
+  Inventory full on return     | Wasted trip, dropped mats    | Park Wagon near mine entry
+  Wrong blueprint tube Gustav  | Wasted Uncommon tube         | Only give COMMON tubes
+  Levelling too fast           | T3 enemies before T2 ready   | Only do farming-tied quests
+
+
+=====================================================
+ QUICK NUMBERS CARD
+=====================================================
+
+  1 Bronze Ingot   = 4 Copper + 4 Tin + 2 Brown Coal
+  1 Pepperbox      ~ 4-5 Bronze Ingots (all parts combined)
+  10 Pepperboxes   ~ 180 Copper + 180 Tin + 90 Coal (raw)
+  Ore per run      ~ 30-50 units (with wagon + full energy)
+  Days to 10 guns  ~ 3-5 days of consistent daily play
+
+
+=====================================================
+ TL;DR — THE 3-STEP MASS PRODUCTION FORMULA
+=====================================================
+
+  1. FARM    > Route A daily: Copper Mine > Tin Mine > Ranch
+  2. QUEUE   > Foundry first, Components second, Gun Workbench last (overnight)
+  3. COLLECT > Grab finished guns, sell or store, repeat
+
+
+Source: westland-survival.md skill file | Lv.45 context | v11.0+
